@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1680264933,,"wq"
+|2,0,1680265798,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,58 @@
 # Registers:
 
 # File marks:
-'0  2  26  ~/tatamotors
-|4,48,2,26,1680264933,"~/tatamotors"
+'0  3  0  ~/exlir
+|4,48,3,0,1680265798,"~/exlir"
+'1  3  0  ~/power
+|4,49,3,0,1680265654,"~/power"
+'2  2  26  ~/tatamotors
+|4,50,2,26,1680264933,"~/tatamotors"
 
 # Jumplist (newest first):
+-'  3  0  ~/exlir
+|4,39,3,0,1680265798,"~/exlir"
+-'  1  0  ~/exlir
+|4,39,1,0,1680265784,"~/exlir"
+-'  3  0  ~/power
+|4,39,3,0,1680265654,"~/power"
+-'  3  0  ~/power
+|4,39,3,0,1680265654,"~/power"
+-'  1  0  ~/power
+|4,39,1,0,1680265641,"~/power"
+-'  1  0  ~/power
+|4,39,1,0,1680265641,"~/power"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
 -'  2  26  ~/tatamotors
 |4,39,2,26,1680264933,"~/tatamotors"
 -'  1  0  ~/tatamotors
 |4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
 
 # History of marks within files (newest to oldest):
+
+> ~/exlir
+	*	1680265796	0
+	"	3	0
+	^	3	0
+	.	2	15
+	+	2	15
+
+> ~/power
+	*	1680265652	0
+	"	3	0
+	^	3	0
+	.	2	18
+	+	2	18
 
 > ~/tatamotors
 	*	1680264931	0
