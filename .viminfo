@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1680687054,,"wq"
+|2,0,1680687250,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +25,52 @@
 # Registers:
 
 # File marks:
-'0  4  0  ~/power
-|4,48,4,0,1680687054,"~/power"
-'1  3  0  ~/exlir
-|4,49,3,0,1680265798,"~/exlir"
-'2  3  0  ~/power
-|4,50,3,0,1680265654,"~/power"
+'0  4  0  ~/steel
+|4,48,4,0,1680687250,"~/steel"
+'1  4  0  ~/power
+|4,49,4,0,1680687054,"~/power"
+'2  3  0  ~/exlir
+|4,50,3,0,1680265798,"~/exlir"
 '3  3  0  ~/power
 |4,51,3,0,1680265654,"~/power"
-'4  2  26  ~/tatamotors
-|4,52,2,26,1680264933,"~/tatamotors"
+'4  3  0  ~/power
+|4,52,3,0,1680265654,"~/power"
+'5  2  26  ~/tatamotors
+|4,53,2,26,1680264933,"~/tatamotors"
 
 # Jumplist (newest first):
+-'  4  0  ~/steel
+|4,39,4,0,1680687250,"~/steel"
+-'  1  0  ~/steel
+|4,39,1,0,1680687198,"~/steel"
 -'  4  0  ~/power
 |4,39,4,0,1680687054,"~/power"
+-'  4  0  ~/power
+|4,39,4,0,1680687054,"~/power"
+-'  3  0  ~/power
+|4,39,3,0,1680687001,"~/power"
 -'  3  0  ~/power
 |4,39,3,0,1680687001,"~/power"
 -'  3  0  ~/exlir
 |4,39,3,0,1680265798,"~/exlir"
 -'  3  0  ~/exlir
 |4,39,3,0,1680265798,"~/exlir"
+-'  3  0  ~/exlir
+|4,39,3,0,1680265798,"~/exlir"
+-'  3  0  ~/exlir
+|4,39,3,0,1680265798,"~/exlir"
 -'  1  0  ~/exlir
 |4,39,1,0,1680265784,"~/exlir"
 -'  1  0  ~/exlir
 |4,39,1,0,1680265784,"~/exlir"
+-'  1  0  ~/exlir
+|4,39,1,0,1680265784,"~/exlir"
+-'  1  0  ~/exlir
+|4,39,1,0,1680265784,"~/exlir"
+-'  3  0  ~/power
+|4,39,3,0,1680265654,"~/power"
+-'  3  0  ~/power
+|4,39,3,0,1680265654,"~/power"
 -'  3  0  ~/power
 |4,39,3,0,1680265654,"~/power"
 -'  3  0  ~/power
@@ -59,6 +81,12 @@
 |4,39,1,0,1680265641,"~/power"
 -'  1  0  ~/power
 |4,39,1,0,1680265641,"~/power"
+-'  1  0  ~/power
+|4,39,1,0,1680265641,"~/power"
+-'  1  0  ~/power
+|4,39,1,0,1680265641,"~/power"
+-'  1  0  ~/power
+|4,39,1,0,1680265641,"~/power"
 -'  2  26  ~/tatamotors
 |4,39,2,26,1680264933,"~/tatamotors"
 -'  2  26  ~/tatamotors
@@ -75,6 +103,38 @@
 |4,39,2,26,1680264933,"~/tatamotors"
 -'  2  26  ~/tatamotors
 |4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  2  26  ~/tatamotors
+|4,39,2,26,1680264933,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
+-'  1  0  ~/tatamotors
+|4,39,1,0,1680264907,"~/tatamotors"
 -'  1  0  ~/tatamotors
 |4,39,1,0,1680264907,"~/tatamotors"
 -'  1  0  ~/tatamotors
@@ -93,6 +153,13 @@
 |4,39,1,0,1680264907,"~/tatamotors"
 
 # History of marks within files (newest to oldest):
+
+> ~/steel
+	*	1680687249	0
+	"	4	0
+	^	4	0
+	.	3	38
+	+	3	38
 
 > ~/power
 	*	1680687052	0
